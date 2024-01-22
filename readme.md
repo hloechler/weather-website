@@ -13,5 +13,4 @@ Simply type in a city that you would like to know the weather for and press the 
 ## License
 This application is covered under the MIT license.
 ## Questions
-<a>https://hloechler.github.io</a>
 <a> haileyloechler@gmail.com</a>
